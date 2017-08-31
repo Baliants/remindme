@@ -1,5 +1,6 @@
 # remindme
-Program to remid datas from Excel data file
+The program to remid dates from Excel data file
+compile comand > pyinstaller RemidMe.spec
 
 Данная программа была написана как выпускной проект на языке Python. Реализация на другом языке была бы более оптимальна, но требовалось использовать именно Python.
 
